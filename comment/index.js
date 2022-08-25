@@ -6,7 +6,7 @@ $(function() {
 
     //设置密码窗口
     var title_main = $(".title-main").text()
-    if(title_main=="璃落自缚"){
+    if(title_main=="璃落自缚" || title_main=="群友自缚"){
         $(".password").fadeIn("fast");
         if (windowH >= 1400 || windowW >= 600){
             $(".password-inner").css("left", 600);

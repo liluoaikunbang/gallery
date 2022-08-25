@@ -50,11 +50,11 @@ body{background-color: #1F1F1F;}
   opacity: 1;
 }
 .card1 {
-  background: url("./img/2.jpg") center center no-repeat;
+  background: url("https://raw.githubusercontent.com/liluoaikunbang/images/master/friends/MengXian3.jpg") center center no-repeat;
   background-size: 400px;
 }
 .card1:hover {
-  background: url("./img/2.jpg") left center no-repeat;
+  background: url("https://raw.githubusercontent.com/liluoaikunbang/images/master/friends/MengXian3.jpg") left center no-repeat;
   background-size: 600px;
 }
 .card1 h2 {
